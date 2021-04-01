@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-![](https://github-readme-stats.vercel.app/api?username=eatmans&theme=dark)
+  
+- ![](https://github-readme-stats.vercel.app/api?username=eatmans&theme=dark)
 

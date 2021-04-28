@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) 
+- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)

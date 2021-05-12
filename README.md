@@ -22,10 +22,7 @@ Here are some ideas to get you started:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)

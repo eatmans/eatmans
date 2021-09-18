@@ -39,4 +39,6 @@ Here are some ideas to get you started:
   
 ![](https://github-readme-stats.vercel.app/api?username=eatmans&show_icons=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eatmans&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+
 

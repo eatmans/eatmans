@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 I use daily:
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
